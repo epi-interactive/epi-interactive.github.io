@@ -166,6 +166,28 @@ header .container {
     background: url("thumbs/theming.png");
     background-repeat: no-repeat;
 }
+.card-image.pdf_gen {
+    background: url("thumbs/pdf_gen.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
+.card-image.choropleth {
+    background: url("thumbs/choropleth.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
+.card-image.selection {
+    background: url("thumbs/selection.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
+
 
 /* FOOTER */
 
