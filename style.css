@@ -187,6 +187,13 @@ header .container {
     background-position-y: center;
     background-position-x: center;
 }
+.card-image.scrolling {
+    background: url("thumbs/scrolling.PNG");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
 
 
 /* FOOTER */
