@@ -195,6 +195,14 @@ header .container {
     background-position-x: center;
 }
 
+.card-image.scrolling {
+    background: url("thumbs/image_downloader.PNG");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
+
 
 /* FOOTER */
 
