@@ -195,7 +195,7 @@ header .container {
     background-position-x: center;
 }
 
-.card-image.scrolling {
+.card-image.image_downloader {
     background: url("thumbs/image_downloader.PNG");
     background-repeat: no-repeat;
     background-size: contain;
