@@ -196,7 +196,7 @@ header .container {
 }
 
 .card-image.image_downloader {
-    background: url("thumbs/image_downloader.PNG");
+    background: url("thumbs/image_downloader.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-y: center;
