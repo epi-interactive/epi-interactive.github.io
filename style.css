@@ -145,62 +145,40 @@ header .container {
 
 .card-image.loading {
     background: url("thumbs/loading.png");
-    background-repeat: no-repeat;
-    
-    background-position-y: center;
+    background-size: contain;
 }
 .card-image.shiny-authentication {
     background: url("thumbs/shiny-authentication.png");
-    background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: center;
-    background-position-x: center;
 }
 .card-image.datatable-modal {
     background: url("thumbs/datatable-shinymodal.png");
-    background-repeat: no-repeat;
-    background-position-y: top;
-    background-position-x: -100px;
+    background-size: contain;
 }
 .card-image.theming {
     background: url("thumbs/theming.png");
-    background-repeat: no-repeat;
+    background-size: contain;
 }
 .card-image.pdf_gen {
     background: url("thumbs/pdf_gen.png");
-    background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: center;
-    background-position-x: center;
 }
 .card-image.choropleth {
     background: url("thumbs/choropleth.png");
-    background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: center;
-    background-position-x: center;
 }
 .card-image.selection {
     background: url("thumbs/selection.png");
-    background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: center;
-    background-position-x: center;
 }
 .card-image.scrolling {
     background: url("thumbs/scrolling.PNG");
-    background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: center;
-    background-position-x: center;
 }
 
 .card-image.image_downloader {
     background: url("thumbs/image_downloader.png");
-    background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: center;
-    background-position-x: center;
 }
 
 
