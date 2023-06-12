@@ -143,6 +143,10 @@ header .container {
 
 /* CARD IMAGES */
 
+.card-image.batch-loading {
+    background: url("thumbs/batch-loading.png");
+    background-size: contain;
+}
 .card-image.loading {
     background: url("thumbs/loading.png");
     background-size: contain;
